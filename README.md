@@ -13,3 +13,4 @@ The end game for this program would be to implement an opinionated teaching syst
   1) Limit guesses. Currently it will tell you how many tries it took you, but will give you unlimited tries
   2) Teaching system
   3) GUI
+  4) Add the other standard works
